@@ -10,21 +10,23 @@
 
 .boutoncontact
 {
-     font-family: Arial;
-     font-size: 1.6em;
-     width: 55px;
-     height: 16px;
-     text-align: center;
-     color: #fff;
-     background: #5ca1f1;
+  font-family: Arial;
+  font-size: 1.6em;
+  width: 55px;
+  height: 16px;
+  text-align: center;
+  color: #fff;
+  background: #5ca1f1;
   
   .boutonesp
 {
-     font-family: Arial;
-     font-size: 1.6em;
-     width: 55px;
-     height: 16px;
-     text-align: center;
-     color: #5ca1f1;
-     background: #fff;
+  font-family: Arial;
+  font-size: 1.6em;
+  width: 55px;
+  height: 16px;
+  text-align: center;
+  color: #5ca1f1;
+  background: #fff;
+  border-style: solid;
+  border-color: #5ca1f1;
   }
