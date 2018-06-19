@@ -3,12 +3,11 @@
   	<meta charset="utf-8">
 	<link rel="stylesheet" href="style.css">
   	<title>Prénom, développeur Web à ville</title>
-  	<link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
   	<header>
-		<div class="inside">
+		<div class="top">
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 			<nav>
 				<ul>
@@ -19,9 +18,6 @@
 			</nav>
 		</div>
 	</header>
-		<div class="bghome">
-			<img src="bg-home.jpg">
-		</div>
 			<h2>Je suis développeur web et toujours partant pour apprendre de nouvelles choses.</h2>
 	<div>
 		<h3>J'aime vraiment avoir l'air professionnel, mais j'ai aussi une touche personnelle.</h3>
@@ -34,7 +30,7 @@
 			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad min tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet</p>
 	</div>
-	<div id="logos">
+	<div class="logos">
 		<img src="logo-client-1.png">
 		<img src="logo-client-2.png">
 		<img src="logo-client-3.png">
@@ -42,7 +38,7 @@
 		<img src="logo-client-5.png">
 	</div>
 		<section>
-			<div class="inside">
+			<div class="mid">
 				<h2>Découvrez mon travail</h2>
 				<div>
 					<div>
@@ -57,7 +53,7 @@
 			</div>
 		</section>
 	<footer>
-		<div class="inside">
+		<div class="bot">
 			<div class="footer-top">
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 				<nav>
