@@ -20,8 +20,8 @@
 	</header>
 		<div class="bghome">
 			<img src="bg-home.jpg">
-			<h2>Je suis développeur web et toujours partant pour apprendre de nouvelles choses.</h2>
 		</div>
+			<h2>Je suis développeur web et toujours partant pour apprendre de nouvelles choses.</h2>
 	<div>
 		<h3>J'aime vraiment avoir l'air professionnel, mais j'ai aussi une touche personnelle.</h3>
 			Contact
