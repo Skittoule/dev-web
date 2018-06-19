@@ -2,16 +2,24 @@ body {
   margin: 0;
 }
 
-.inside {
-  max-width: 1400;
-  flex-direction: row; 
-}  
+header {
+	position: fixed;
+    left: 0;
+    right: 0;
+    height: 80px;
+    line-height: 80px;
+    background-color: #5ca1f1;
+}
 
-.bghome  {
-  height: 315px;
-  weidth: 100%;
+.top {
+	flex-direction: column-reverse;
 }
 
 .logos {
+  display: flex; 
   justify-content: space-between;
 }
+
+.inside {
+  max-width: 1400px;
+}  
