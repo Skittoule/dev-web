@@ -7,8 +7,10 @@
 
 <body>
   	<header>
-		<img src="bg-home.jpg">
-		<div clas="inside">
+		<div class="bg-home">
+			<img src="bg-home.jpg">
+		</div>
+		<div class="inside">
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 			<nav>
 				<ul>
@@ -30,7 +32,7 @@
 			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
 		-->
 		<section>
-			<div clas="inside">
+			<div class="inside">
 				<h2>Découvrez mon travail</h2>
 				<div>
 					<div>
