@@ -8,8 +8,9 @@
 <body>
   	<header>
 		<div class="inside">
-			<div class="bg-home">
+			<div class="bghome">
 			<img src="bg-home.jpg">
+			</div>
 		</div>
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 			<nav>
@@ -21,7 +22,6 @@
 			</nav>
 		</div>
 	</header>
-
 	<main>
 		<!-- Ajoutez le html pour cette partie - Voici les textes : 
 			Je suis développeur web et toujours partant pour apprendre de nouvelles choses.
@@ -47,7 +47,6 @@
 			</div>
 		</section>
 	</main>
-
 	<footer>
 		<div class="inside">
 			<div class="footer-top">
