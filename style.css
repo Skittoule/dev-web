@@ -1,21 +1,22 @@
-.inside
-{
+body {
+  margin: 0;
+}
+
+.inside {
+  max-width: 1400;
   flex-direction: row; 
 }  
 
-.bghome 
-{
-  height: 315;
+.bghome  {
+  height: 315px;
   weidth: 100%;
 }
 
-.logos 
-{
+.logos {
   justify-content: space-between;
 }
 
-.boutoncontact
-{
+.boutoncontact {
   font-family: Arial;
   front-size: 1em;
   width: 55px;
@@ -25,8 +26,7 @@
   background: #5ca1f1;
 }
   
-  .boutonesp
-{
+  .boutonesp {
   font-family: Arial;
   width: 55px;
   height: 16px;
