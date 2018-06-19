@@ -56,7 +56,6 @@
 				</div>
 			</div>
 		</section>
-	</main>
 	<footer>
 		<div class="inside">
 			<div class="footer-top">
