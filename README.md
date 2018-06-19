@@ -1,6 +1,6 @@
 <html lang="fr">
-<link rel="stylesheet" href="style.css">
 <head>
+	<link rel="stylesheet" href="style.css">
   	<meta charset="utf-8">
   	<title>Prénom, développeur Web à ville</title>
   	<link rel="stylesheet" href="css/style.css">
