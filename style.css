@@ -1,5 +1,3 @@
-.bghome {
-  background-size: cover;
-  width: 100%;
-  height: 315px;
+.logos {
+  justify-content: space-between;
 }
