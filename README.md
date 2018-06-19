@@ -1,4 +1,5 @@
 <html lang="fr">
+<link rel="stylesheet" href="style.css">
 <head>
   	<meta charset="utf-8">
   	<title>Prénom, développeur Web à ville</title>
