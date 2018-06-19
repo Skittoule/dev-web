@@ -25,9 +25,7 @@
 			<h2>Je suis développeur web et toujours partant pour apprendre de nouvelles choses.</h2>
 	<div>
 		<h3>J'aime vraiment avoir l'air professionnel, mais j'ai aussi une touche personnelle.</h3>
-		<div class="boutoncontact">
 			Contact
-		</div>
 			En savoir plus
 			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad min tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet</p>
