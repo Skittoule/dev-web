@@ -29,7 +29,7 @@
 			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad min tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet</p>
 	</div>
-	<div class="logos">
+	<div id="logos">
 		<img src="logo-client-1.png">
 		<img src="logo-client-2.png">
 		<img src="logo-client-3.png">
