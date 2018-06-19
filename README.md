@@ -1,7 +1,7 @@
 <html lang="fr">
 <head>
-	<link rel="stylesheet" href="style.css">
   	<meta charset="utf-8">
+	<link rel="stylesheet" href="style.css">
   	<title>Prénom, développeur Web à ville</title>
   	<link rel="stylesheet" href="css/style.css">
 </head>
@@ -25,8 +25,12 @@
 			<h2>Je suis développeur web et toujours partant pour apprendre de nouvelles choses.</h2>
 	<div>
 		<h3>J'aime vraiment avoir l'air professionnel, mais j'ai aussi une touche personnelle.</h3>
+		<div class="boutoncontact">
 			Contact
+		</div>
+		<div class="boutonesp">
 			En savoir plus
+		</div>
 			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad min tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet</p>
 	</div>
@@ -39,6 +43,7 @@
 	</div>
 		<section>
 			<div class="inside">
+				<img src="mockups.png">
 				<h2>Découvrez mon travail</h2>
 				<div>
 					<div>
