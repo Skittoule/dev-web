@@ -43,7 +43,6 @@
 	</div>
 		<section>
 			<div class="inside">
-				<img src="mockups.png">
 				<h2>Découvrez mon travail</h2>
 				<div>
 					<div>
@@ -52,7 +51,7 @@
 						<p><a href="#">En savoir plus</a></p>
 					</div>
 					<div>
-						<img src="images/mockups.jpg" alt="Site xxxx" />
+						<img src="mockups.png" alt="Site xxxx" />
 					</div>
 				</div>
 			</div>
