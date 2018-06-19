@@ -8,9 +8,6 @@
 <body>
   	<header>
 		<div class="inside">
-			<div class="bghome">
-			<img src="bg-home.jpg">
-			</div>
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 			<nav>
 				<ul>
@@ -21,15 +18,17 @@
 			</nav>
 		</div>
 	</header>
-	<main>
-		<!-- Ajoutez le html pour cette partie - Voici les textes : 
-			Je suis développeur web et toujours partant pour apprendre de nouvelles choses.
-			J'aime vraiment avoir l'air professionnel, mais j'ai aussi une touche personnelle.
+		<div class="bghome">
+			<img src="bg-home.jpg">
+			<h2>Je suis développeur web et toujours partant pour apprendre de nouvelles choses.</h2>
+		</div>
+	<div>
+		<h3>J'aime vraiment avoir l'air professionnel, mais j'ai aussi une touche personnelle.</h3>
 			Contact
 			En savoir plus
-			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad min tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-		-->
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad min tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet</p>
+	</div>
 		<section>
 			<div class="inside">
 				<h2>Découvrez mon travail</h2>
