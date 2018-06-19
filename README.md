@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="fr">
 <head>
   	<meta charset="utf-8">
@@ -7,10 +8,10 @@
 
 <body>
   	<header>
-		<div class="bg-home">
+		<div class="inside">
+			<div class="bg-home">
 			<img src="bg-home.jpg">
 		</div>
-		<div class="inside">
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 			<nav>
 				<ul>
