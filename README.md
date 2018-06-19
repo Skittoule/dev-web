@@ -7,6 +7,7 @@
 
 <body>
   	<header>
+		<link rel="stylesheet" href="bg-home.jpg" type="text/css" media="all">
 		<div clas="inside">
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 			<nav>
