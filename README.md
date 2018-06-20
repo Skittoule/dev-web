@@ -7,7 +7,7 @@
 
 <body>
   	<header>
-		<div class="top">
+		<div class="inside">
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 			<nav>
 				<ul>
@@ -38,7 +38,7 @@
 		<img src="logo-client-5.png">
 	</div>
 		<section>
-			<div class="mid">
+			<div class="inside">
 				<h2>Découvrez mon travail</h2>
 				<div>
 					<div>
@@ -53,7 +53,7 @@
 			</div>
 		</section>
 	<footer>
-		<div class="bot">
+		<div class="inside">
 			<div class="footer-top">
 			<div><a href="#">Prénom</a>Tél : 07 89 76 54 67</div>
 				<nav>
